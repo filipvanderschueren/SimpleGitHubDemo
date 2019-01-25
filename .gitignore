@@ -12,5 +12,7 @@ nbdist/
 .nb-gradle/
 
 *.xml
+*.properties
+*.mf
 
 # End of https://www.gitignore.io/api/netbeans
