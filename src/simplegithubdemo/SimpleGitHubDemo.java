@@ -14,7 +14,10 @@ public class SimpleGitHubDemo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Simply hello");
+        System.out.println("Starting Demo");
+        Dummy d = new Dummy("hello");
+        System.out.println("Show Dummy :" + d.getText());
+        
     }
     
 }
